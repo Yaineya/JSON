@@ -2,5 +2,6 @@
 	"name" : "Evgeniy",
 	"age" : 38,
 	"pet" : {"dog" : "banksy"},
-	"expected_salary" : "5000$"
+	"expected_salary" : "5000$",
+	"actuial_salary" : "500$"
 }
