@@ -4,5 +4,6 @@
 	"food" : "окрошка",
 	"season" : "summer",
 	"country_for_visit" : "USA",
-	"music" : "metal"
+	"music" : "metal",
+	"os" : ["IOS", "macOS"]
 }
